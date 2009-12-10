@@ -1,0 +1,11 @@
+## Interface: 30200
+## Version: r8
+## Title: st|cfe87b23fText|r
+## Notes: Custom texts
+## Author: Soeters
+## SavedVariables: stTextDB
+
+Settings.lua
+Core.lua
+Texts.lua
+
